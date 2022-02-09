@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @crowned4success
 - 👀 I’m interested in applying block chain to solve challenges in the healthcare space ...
-- 🌱 I’m currently learning how to write solidity smart contacts and taking the CS 50 course on Edx .
+- 🌱 I’m currently learning how to write solidity smart contracts and taking the CS50 course on Edx .
 - 💞️ I’m looking to collaborate on block chain projects to keep learning 
 - 📫 Shoot me a DM 
 
